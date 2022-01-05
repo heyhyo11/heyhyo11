@@ -1,4 +1,6 @@
-### Hi there 👋
+### 안녕하세요. 저는 효정 👋
+
+![Profile views counter](https://komarev.com/ghpvc/?username=heyhyo11&&style=flat-square) 
 
 <!--
 **heyhyo11/heyhyo11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![Profile views counter](https://komarev.com/ghpvc/?username=heyhyo11&&style=flat-square)  
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.heyhyo11)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23AE0909&title_bg=%23414445&icon=&icon_color=%23D0D0D0&title=visitors&edge_flat=true)](https://hits.seeyoufarm.com)

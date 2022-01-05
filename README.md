@@ -4,11 +4,10 @@
 ## 안녕하세요. 저는 효정! 👋
 
 
- 🌱 백엔드 개발자를 목표로 프로그래밍을 공부하고 있습니다. &#9997;
-- ⚡ 2021.12.13 ~ : SpartaCodingClub 내일배움캠프 AI 트랙 1기 &#9996;
-
-<br/>  
-
+백엔드 개발자를 목표로 프로그래밍을 공부하고 있습니다. &#9997;
+- **2021.12.13** ~ : SpartaCodingClub 내일배움캠프 AI 트랙 1기 &#9996;
+ 
+ 
 ## Skills & Tools
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS&logoColor=white"/></a>
@@ -16,7 +15,6 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 
-<br/>  
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=heyhyo11&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  

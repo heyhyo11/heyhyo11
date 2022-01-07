@@ -16,8 +16,15 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 
 
+
+
+
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=heyhyo11&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=heyhyo11&show_icons=true&count_private=true&hide_border=true" align="center" /></div> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heyhyo11&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nmdkims&layout=compact&hide_border=true&theme=white)   -->
+
 
 
 <br/>  

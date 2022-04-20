@@ -28,7 +28,7 @@
 
 <!--  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=heyhyo11&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heyhyo11&layout=compact&hide_border=true&theme=white) -->
 
-## :desktop_computer: Solved.ac Profile
+## Solved.ac Profile
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=takemyhrt)
 
 

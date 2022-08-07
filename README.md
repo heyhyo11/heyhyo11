@@ -3,36 +3,39 @@
 
 ## 안녕하세요. 저는 효정! 👋
 
+- 프로그래밍을 통해 사람들과 만나는 것을 좋아합니다. 😇 <br>
+- 백엔드 개발자입니다. 주요 기술 스택은 **Python, Django** 입니다. <br>
+- 개인 블로그에 그 날 배운 내용을 포스팅하고 있습니다. <br>
+- 느리더라도 차근차근 나아가는 개발자가 되고 싶습니다. <br>
 
-백엔드 개발자를 목표로 프로그래밍을 공부하고 있습니다. &#9997;
-- **2021.12.13 ~ 2022.04.14** : SpartaCodingClub 내일배움캠프 AI 트랙 1기 &#9996;
- 
+ <br>
  
 ## Skills & Tools
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a> <br>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat-square&logo=AWS EC2&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/AWS S3-569A31?style=flat-square&logo=AWS S3&logoColor=white"/></a>
 
+ <br>
 
 ## Github Stats  
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heyhyo11&theme=buefy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact) -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=3)](https://github.com/anuraghazra/github-readme-stats) -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heyhyo11&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
-
-
-<!--  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=heyhyo11&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heyhyo11&layout=compact&hide_border=true&theme=white) -->
+<br>
 
 ## Solved.ac Profile
+
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=takemyhrt)
 
 
-<br/>  
+<br>  
 
 
 <!--
